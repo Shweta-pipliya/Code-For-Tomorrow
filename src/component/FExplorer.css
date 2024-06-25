@@ -1,0 +1,29 @@
+.file-explorer {
+    display: flex;
+    background-color: rgb(179, 213, 214);
+  }
+  
+  .file-tree {
+    width: 100%;
+    border-right: 1px solid #ccc;
+    padding: 10px;
+    justify-content: center;
+    display: flex;
+  }
+  
+  .file-viewer {
+    width: 10%;
+    padding: 10px;
+  }
+  
+  .file-tree-item {
+    display: flex;
+    align-items: center;
+    margin: 5px 5px;
+  }
+  
+  .file-tree-children {
+    margin: 40px 40px;
+
+  }
+  
